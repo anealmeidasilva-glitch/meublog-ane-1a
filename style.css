@@ -1,13 +1,14 @@
-.cabecalho{
-    background-color: azure;
-    color: black;
-    text-align: center;
-    margin: 0 auto;
-    max-width: 800px;
+.cabecalho { 
+    background-color: black; 
+    color: aliceblue; text-align: center; 
+    margin: 0 auto; max-width: 800px; 
 }
 
-.principal{
-    background-color:rgb(255, 253, 253);
-    color:rgb(0, 0, 0);
-}
-
+ .principal{ 
+    background-color:rgb(255, 255, 255);
+     color:black;
+     } 
+     
+     .principal-imagem{ 
+        width: 400px; 
+        height: 200px; }
